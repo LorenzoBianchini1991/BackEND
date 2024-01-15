@@ -1,4 +1,4 @@
-package mese1.sett2.day2.ex2;
+package mese1.sett2.day1.ex2;
 
 import java.util.Scanner;
 

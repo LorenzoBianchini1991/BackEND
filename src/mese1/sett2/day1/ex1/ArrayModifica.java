@@ -1,4 +1,4 @@
-package mese1.sett2.day2.ex1;
+package mese1.sett2.day1.ex1;
 
 import java.util.Random;
 import java.util.Scanner;

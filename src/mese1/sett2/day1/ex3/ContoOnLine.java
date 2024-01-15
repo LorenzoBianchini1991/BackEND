@@ -1,4 +1,4 @@
-package mese1.sett2.day2.ex3;
+package mese1.sett2.day1.ex3;
 
 public class ContoOnLine extends ContoCorrente {
     double maxPrelievo;
