@@ -8,6 +8,7 @@ public class Main {
         Catalogo catalogo = new Catalogo();
 
         // Creazione di alcuni libri e aggiunta al catalogo
+
         Libro libro1 = new Libro("ISBN-12345", "Il Grande Gatsby", 1925, 180, "F. Scott Fitzgerald", "Romanzo");
         Libro libro2 = new Libro("ISBN-54321", "1984", 1949, 328, "George Orwell", "Distopia");
         catalogo.aggiungiElemento(libro1);

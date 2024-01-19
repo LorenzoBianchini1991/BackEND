@@ -5,6 +5,7 @@ import java.io.Serializable;
 public class Rivista extends ElementoCatalogo implements Serializable {
     @Override
     public Object getAutore() {
+
         return null;
     }
 

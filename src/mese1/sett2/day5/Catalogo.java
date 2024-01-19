@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 public class Catalogo implements Serializable {
     private List<ElementoCatalogo> elementi;
 
+
     public Catalogo() {
         elementi = new ArrayList<>();
     }

@@ -9,6 +9,7 @@ public abstract class ElementoCatalogo implements Serializable {
     protected int numeroPagine;
 
     public ElementoCatalogo(String codiceISBN, String titolo, int annoPubblicazione, int numeroPagine) {
+
         this.codiceISBN = codiceISBN;
         this.titolo = titolo;
         this.annoPubblicazione = annoPubblicazione;
